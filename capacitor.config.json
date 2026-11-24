@@ -1,0 +1,12 @@
+{
+  "appId": "br.com.fitnesspro.app",
+  "appName": "FITNESS PRO",
+  "webDir": "www",
+  "plugins": {
+    "Geolocation": {
+      "permissions": [
+        "location"
+      ]
+    }
+  }
+}
